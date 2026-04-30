@@ -1,0 +1,144 @@
+{
+  "inspeksjoner": [
+    {
+      "kunde": "Lagersystemer AS",
+      "adresse": "Leirvikåsen 35, 5179 Godvik",
+      "kontakt": "Knut Øyjordsbakken",
+      "dato": "2026-04-29",
+      "inspektor": "Terje Øvretveit",
+      "id": "abdeefe2-a0fb-4083-bfb9-ca222310cd39",
+      "opprettet": "2026-04-29T13:11:50.085Z"
+    }
+  ],
+  "reoler": [
+    {
+      "inspeksjon_id": "abdeefe2-a0fb-4083-bfb9-ca222310cd39",
+      "avdeling": "Lager",
+      "reolnummer": "1",
+      "reoltype": "Pallreol",
+      "produsent": "Boracs 90",
+      "antall_seksjoner": 4,
+      "antall_nivaer": 3,
+      "godkjent": false,
+      "id": "e585c504-4af4-45bd-b229-7f344048033b",
+      "opprettet": "2026-04-30T05:57:09.428Z"
+    }
+  ],
+  "seksjoner": [
+    {
+      "id": "24044e11-14e2-4ce5-a6e6-90e17c28af16",
+      "reol_id": "e585c504-4af4-45bd-b229-7f344048033b",
+      "seksjon_index": 0,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "60adc715-cbae-4039-8530-774285e4d161",
+      "reol_id": "e585c504-4af4-45bd-b229-7f344048033b",
+      "seksjon_index": 1,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "8d8ebd17-94b3-49ed-8838-5b9c73c76ee9",
+      "reol_id": "e585c504-4af4-45bd-b229-7f344048033b",
+      "seksjon_index": 2,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "e446b98e-9d7d-4944-a19d-3a86c1117e34",
+      "reol_id": "e585c504-4af4-45bd-b229-7f344048033b",
+      "seksjon_index": 3,
+      "skade": "g",
+      "kommentar": ""
+    }
+  ],
+  "nivaer": [
+    {
+      "id": "eeb0f9b7-c26a-4242-96d1-246a309cb6dd",
+      "seksjon_id": "24044e11-14e2-4ce5-a6e6-90e17c28af16",
+      "nivaa_index": 0,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "1c645e47-552b-4036-a980-a79327f7d116",
+      "seksjon_id": "24044e11-14e2-4ce5-a6e6-90e17c28af16",
+      "nivaa_index": 1,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "1e4e8b46-63ba-4191-9492-8f6caae4d9b7",
+      "seksjon_id": "24044e11-14e2-4ce5-a6e6-90e17c28af16",
+      "nivaa_index": 2,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "270d4f90-39ca-4a19-9c50-328b6bbc36f9",
+      "seksjon_id": "60adc715-cbae-4039-8530-774285e4d161",
+      "nivaa_index": 0,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "127098af-bf61-4d80-b084-462077b979ff",
+      "seksjon_id": "60adc715-cbae-4039-8530-774285e4d161",
+      "nivaa_index": 1,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "f67b08cc-9d24-47f9-ad99-641dc254295e",
+      "seksjon_id": "60adc715-cbae-4039-8530-774285e4d161",
+      "nivaa_index": 2,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "060acb2d-0c4c-4cf6-a891-9411e5718f23",
+      "seksjon_id": "8d8ebd17-94b3-49ed-8838-5b9c73c76ee9",
+      "nivaa_index": 0,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "3a70c5a5-8a43-46a6-a314-6cfc1e4d298b",
+      "seksjon_id": "8d8ebd17-94b3-49ed-8838-5b9c73c76ee9",
+      "nivaa_index": 1,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "e9c471ac-6b48-4f35-871b-9a931687e463",
+      "seksjon_id": "8d8ebd17-94b3-49ed-8838-5b9c73c76ee9",
+      "nivaa_index": 2,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "2485330a-3984-4535-933c-aebe39432027",
+      "seksjon_id": "e446b98e-9d7d-4944-a19d-3a86c1117e34",
+      "nivaa_index": 0,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "2007e90e-a799-4be9-8468-9fa6f7d5347e",
+      "seksjon_id": "e446b98e-9d7d-4944-a19d-3a86c1117e34",
+      "nivaa_index": 1,
+      "skade": "g",
+      "kommentar": ""
+    },
+    {
+      "id": "36ad3781-fad4-4a5b-94fc-43f8e43ee440",
+      "seksjon_id": "e446b98e-9d7d-4944-a19d-3a86c1117e34",
+      "nivaa_index": 2,
+      "skade": "g",
+      "kommentar": ""
+    }
+  ],
+  "bilder": []
+}
